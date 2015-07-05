@@ -7,4 +7,4 @@ This project uses **JavaScript** syntax and **Jasmine** testing to generate simp
 
 ####Preview
 
-![javabuzz screenshot]()
+![javabuzz screenshot](https://github.com/maciejk77/javabuzz-athletic/blob/master/img/screenshot.png?raw=true)
